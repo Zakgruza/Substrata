@@ -1,0 +1,18 @@
+[{
+    "modid": "substratam",
+    "name": "Substrata Materials",
+    "description": "Substrata will change the way you play Minecraft",
+    "version": "0.0.1",
+    "mcversion": "1.6.4",
+    "url": "",
+    "updateUrl": "",
+    "authors": [ "zakgruza"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": ""
+  }]
