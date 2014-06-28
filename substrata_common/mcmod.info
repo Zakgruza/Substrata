@@ -1,0 +1,18 @@
+[
+{
+  "modid": "Substrata",
+  "name": "Substrata",
+  "description": "Welcome to Strata, where the truth is what lies beneath!",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+"Zakgruza"
+],
+  "credits": "Alice_zero-digital artist",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
